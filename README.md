@@ -10,7 +10,7 @@ on hover:
 about me:
 ![image](https://github.com/MarsX-2002/Earth-website/assets/82014315/09251eab-c30d-44f6-87de-a7a06c980730)
 
-revisiting this in 05.07.2024 :)
-it was fun project, 
-which made me learn html/css in 1 day 
-during hackja new jearsey spring 2021 hackathon
+revisiting this in 05.07.2024 :) \n
+it was fun project, \n
+which made me learn html/css in 1 day \n
+during hackja new jearsey spring 2021 hackathon \n
